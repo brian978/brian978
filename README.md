@@ -1,8 +1,22 @@
 - 👋 Hi, I’m @brian978
 - 👀 I’m interested in creating problem solving apps
-- 🌱 I’m currently learning iOS development
+- 🌱 I’m currently learning ReactJS & other cool tech
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: via my [contact form](https://andreidincescu.ro/contact)
+
+⚒ 𝗦𝗸𝗶𝗹𝗹𝘀:  
+➤ PHP │ Symfony │ Laravel │ PHPUnit │ Xdebug │ MySQL  
+➤ Python │ Django  
+➤ Kafka │ RabbitMQ │ Redis  
+➤ Docker │ Linux  
+➤ Test Driven Development  
+➤ Technical Lead (PHP)  
+➤ Technical Interviewer  
+
+
+🏡 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘂𝗿𝗲 & 𝗱𝗲𝘀𝗶𝗴𝗻  
+➤ Microservices architecture │ Event-driven architecture  
+➤ SOLID │ Clean & readable code │ Software design patterns │ Domain Driven Design  
+➤ RESTful Web services  
 
 <!---
 brian978/brian978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
