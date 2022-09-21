@@ -1,10 +1,10 @@
-🚨 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲:  
+🚨 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲  
 ➤ 👋 Hi, I’m Andrei  
 ➤ 👀 I’m interested in creating problem solving apps  
 ➤ 🌱 I’m currently learning ReactJS & other cool tech  
 ➤ 💞️ I’m looking to collaborate on open source projects 
 
-⚒ 𝗦𝗸𝗶𝗹𝗹𝘀:  
+⚒ 𝗦𝗸𝗶𝗹𝗹𝘀  
 ➤ PHP │ Symfony │ Laravel │ PHPUnit │ Xdebug │ MySQL  
 ➤ Python │ Django  
 ➤ Kafka │ RabbitMQ │ Redis  
