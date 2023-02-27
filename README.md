@@ -6,8 +6,8 @@
 
 ⚒ 𝗦𝗸𝗶𝗹𝗹𝘀  
 ➤ PHP │ Symfony │ Laravel │ PHPUnit │ Xdebug │ MySQL  
-➤ Python │ Django
-➤ Ruby | Ruby on Rails
+➤ Python │ Django  
+➤ Ruby | Ruby on Rails  
 ➤ Kafka │ RabbitMQ │ Redis  
 ➤ Docker │ Linux  
 ➤ Test Driven Development  
