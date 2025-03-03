@@ -1,5 +1,5 @@
 🚨 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲  
-➤ 👋 Hi! 
+➤ 👋 Hi!  
 ➤ 👀 I’m interested in creating problem solving apps  
 ➤ 🌱 I’m currently learning ReactJS & other cool tech  
 ➤ 💞️ I’m looking to collaborate on open source projects 
